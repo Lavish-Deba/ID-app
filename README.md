@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an application for a flutter ID as a developer.
+with contact details 
+
+whta you will learn include adding network image(i used git), 
+using listview, rows, colums and icons.
 
 A few resources to get you started if this is your first Flutter project:
 
