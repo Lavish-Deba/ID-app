@@ -7,7 +7,7 @@ A new Flutter project.
 This project is an application for a flutter ID as a developer.
 with contact details 
 
-whta you will learn include adding network image(i used git), 
+what you will learn include, adding network-image(git-image was used), 
 using listview, rows, colums and icons.
 
 A few resources to get you started if this is your first Flutter project:
